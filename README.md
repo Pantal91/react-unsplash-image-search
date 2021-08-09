@@ -1,2 +1,2 @@
 # Demo:
-https://hghtrt-react-unsplash-image-gallery.surge.sh/
+https://hghtrt-react-unsplash-gallery.surge.sh/
